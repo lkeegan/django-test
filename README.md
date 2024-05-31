@@ -1,6 +1,8 @@
 # django-test
 
-Playground for trying out django
+Playground for trying out django.
+
+django-test is the "django project", polls is a "django app".
 
 ## quickstart
 
